@@ -1,6 +1,6 @@
 # SEE Conf 历年 PPT 合集
 
-![Logo](./logo.png)
+<img src="./seeconf.png" alt="SEE Conf Logo" width="200"/>
 
 熟悉 SEE Conf 的都知道，SEE = Seek Experience & Engineering，意为用户体验和工程实践。
 

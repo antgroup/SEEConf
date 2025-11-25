@@ -1,6 +1,6 @@
 <div align="center">
   <h1>SEE Conf：探索极致用户体验与最佳工程实践</h1>
-  <img src="./seeconf.png" alt="SEE Conf Logo" width="200"/>
+  <img src="./seeconf.png" alt="SEE Conf Logo" width="400" style="max-width: 100%; height: auto;"/>
 </div>
 
 <ins>SEE Conf = Seeking Experience & Engineering</ins>，意为探索用户体验与工程实践，由蚂蚁终端技术委员会举办，包括专业分享、产品展台、Workshop 等内容。我们希望通过 SEE Conf（支付宝体验科技大会），能与业界同行一起分享交流体验科技的当前进展，一起探讨切磋体验科技的未来发展，共同努力促进体验技术的开放，让生态繁荣共赢。
